@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://postgres:Mobilepubg2022@db.wvphxaembmnbpbwzzyvi.supabase.co/postgres
